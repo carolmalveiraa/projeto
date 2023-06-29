@@ -17,7 +17,7 @@ Programa para biografia interativa do instagram. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./Image_Notion.png" width="100%">
+  <img alt="./Image_Notion.png" src="./Image_Notion.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
